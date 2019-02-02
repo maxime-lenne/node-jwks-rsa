@@ -27,9 +27,9 @@ client.getSigningKey(kid, (err, key) => {
 Integrations are also provided with:
 
  - [express/express-jwt](examples/express-demo)
- - [express/passport-jwt](examples/passport-demo)
  - [hapi/hapi-auth-jwt2](examples/hapi-demo)
  - [koa/koa-jwt](examples/koa-demo)
+ - [themikenicholson/passport-jwt](examples/passport-demo)
 
 ### Caching
 
